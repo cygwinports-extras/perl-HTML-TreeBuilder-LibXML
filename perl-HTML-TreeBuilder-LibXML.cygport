@@ -1,0 +1,13 @@
+CPAN_AUTHOR=tokuhirom
+inherit perl
+
+NAME="perl-HTML-TreeBuilder-LibXML"
+VERSION=0.24
+RELEASE=1
+CATEGORY="Perl"
+SUMMARY="Perl HTML::TreeBuilder XPath module"
+DESCRIPTION="HTML::TreeBuilder::XPath is libxml based compatible interface to
+HTML::TreeBuilder, which could be slow for a large document.
+HTML::TreeBuilder::LibXML is drop-in-replacement for HTML::TreeBuilder::XPath."
+
+ARCH=noarch
