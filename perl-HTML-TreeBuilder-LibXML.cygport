@@ -2,7 +2,7 @@ CPAN_AUTHOR=tokuhirom
 inherit perl
 
 NAME="perl-HTML-TreeBuilder-LibXML"
-VERSION=0.24
+VERSION=0.25
 RELEASE=1
 CATEGORY="Perl"
 SUMMARY="Perl HTML::TreeBuilder XPath module"
